@@ -1,3 +1,7 @@
+## Live
+
+Check out the live portfolio at: [https://creatspace.netlify.app/](https://creatspace.netlify.app/)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -72,9 +76,10 @@ A modern, responsive personal portfolio built with Next.js. Showcase your projec
 - Add your projects and details in `projects/page.jsx`
 - Replace images and media in the `public/` folder
 
-## Demo
 
-![Portfolio Screenshot](public/1.png)
+## Live
+
+Check out the live portfolio at: [https://creatspace.netlify.app/](https://creatspace.netlify.app/)
 
 ## License
 
