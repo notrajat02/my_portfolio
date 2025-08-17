@@ -7,10 +7,10 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-  <header className="bg-gray-900 border-b border-gray-700 shadow-md h-20" style={{ backgroundImage: 'url(/logo.png)', backgroundSize: 'cover', backgroundPosition: 'center', height: '80px' }}>
+  <header className="bg-gray-900 border-b border-gray-700 shadow-md h-20">
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center">
-          <span className="font-bold text-3xl text-white italic font-serif bg-black bg-opacity-60 px-4 py-2 rounded">CreatSpace</span>
+          <span className="font-bold text-3xl text-white italic font-serif bg-black bg-opacity-60 px-4 py-2 rounded">Creat</span>
         </div>
         {/* Desktop Navigation */}
         <nav className="hidden md:flex">
